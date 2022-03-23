@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-spare/static/css/main.1d88c46d.css",
-    "main.js": "/react-spare/static/js/main.92049bde.js",
-    "static/js/787.7bccd639.chunk.js": "/react-spare/static/js/787.7bccd639.chunk.js",
-    "index.html": "/react-spare/index.html",
-    "main.1d88c46d.css.map": "/react-spare/static/css/main.1d88c46d.css.map",
-    "main.92049bde.js.map": "/react-spare/static/js/main.92049bde.js.map",
-    "787.7bccd639.chunk.js.map": "/react-spare/static/js/787.7bccd639.chunk.js.map"
+    "main.css": "/react-practice/static/css/main.1d88c46d.css",
+    "main.js": "/react-practice/static/js/main.eddd9739.js",
+    "static/js/787.7bccd639.chunk.js": "/react-practice/static/js/787.7bccd639.chunk.js",
+    "index.html": "/react-practice/index.html",
+    "main.1d88c46d.css.map": "/react-practice/static/css/main.1d88c46d.css.map",
+    "main.eddd9739.js.map": "/react-practice/static/js/main.eddd9739.js.map",
+    "787.7bccd639.chunk.js.map": "/react-practice/static/js/787.7bccd639.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1d88c46d.css",
-    "static/js/main.92049bde.js"
+    "static/js/main.eddd9739.js"
   ]
 }
